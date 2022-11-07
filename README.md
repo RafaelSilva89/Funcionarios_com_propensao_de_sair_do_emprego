@@ -87,20 +87,20 @@ YearsWithCurrManage | quantos anos está trabalhando como gerente|
 # _4. Planejamento da Solução_
 
 1. Entendimento do negócio:
- - Foi realizado a descrição do negócio.
+   - Foi realizado a descrição do negócio.
 2. Coleta dos dados:
- - Foi feito o downloand do arquivo da plataforma do Kangle.
+   - Foi feito o downloand do arquivo da plataforma do Kangle.
 3. Limpeza dos dados:
- - Foi realizado a Análise Descritiva dos Dados, passo importante para verificar o quanto, o projeto é desafiador, ou seja verificar a qualidade dos dados e o entendimento dos dados.
+   - Foi realizado a Análise Descritiva dos Dados, passo importante para verificar o quanto, o projeto é desafiador, ou seja verificar a qualidade dos dados e o entendimento dos dados.
 4. Análise exploratória dos dados:
- - Nesta etapa foi realizado a Exploração de Dados, que serve para medir o impacto das variáveis em relação as variáveis respostas e muitas vezes quantificar este impacto, nesta etapa começa gerar valor para o entendimento do negócio.
+   - Nesta etapa foi realizado a Exploração de Dados, que serve para medir o impacto das variáveis em relação as variáveis respostas e muitas vezes quantificar este impacto, nesta etapa começa gerar valor para o entendimento do negócio.
 5. Preparação dos dados:
- - Agora entramos na Modelagem dos dados, onde vamos preparar os dados para ensinar os Algoritmo de Machine learning, passo importante, porque o aprendizado da maioria dos algoritmos de ML é facilitado com dados numéricos e na mesma escala.
+   - Agora entramos na Modelagem dos dados, onde vamos preparar os dados para ensinar os Algoritmo de Machine learning, passo importante, porque o aprendizado da maioria dos algoritmos de ML é facilitado com dados numéricos e na mesma escala.
 6. Treinamento algoritmos de machine learning:
-  - Nesta etapa vamos implementar os Algoritmos de Machine Learning, e escolher o que tem mais performance e seguir com ele para a produção.
+   - Nesta etapa vamos implementar os Algoritmos de Machine Learning, e escolher o que tem mais performance e seguir com ele para a produção.
 7. Avaliação do algoritmo:
-     - Nesta etapa é a oportunidade de responder: Qual seria o impacto deste resultado no negócio?
-     - Dependendo da resposta podemos colocar em produção e deixar o time de negócio usar ou voltar e melhorar alguns pontos.
+   - Nesta etapa é a oportunidade de responder: Qual seria o impacto deste resultado no negócio?
+   - Dependendo da resposta podemos colocar em produção e deixar o time de negócio usar ou voltar e melhorar alguns pontos.
 8. Implementar o modelo para produção:
    - É a etapa em colocar em produção ou fazer uma simulação do modelo, para deixar acessível para qualquer consumidor.
 
